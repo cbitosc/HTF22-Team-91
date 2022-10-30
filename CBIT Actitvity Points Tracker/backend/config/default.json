@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://activitytracker:activitytracker@cluster0.rinj5lv.mongodb.net/?retryWrites=true",
+    "offineURL": "mongodb://localhost:27017/engagement-platform"
+}
